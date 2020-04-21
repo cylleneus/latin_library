@@ -1,1 +1,62 @@
-{"3": {"author": "Seneca", "title": "On Anger I", "filename": "sen.ira1.txt", "path": "lat\\latin_library\\index\\seneca\\on-anger-i", "index": ["_latin_library_seneca_on-anger-i_3_3.toc", "latin_library_seneca_on-anger-i_3_k7gprcevwsjp73p3.seg"]}, "4": {"author": "Seneca", "title": "On Anger II", "filename": "sen.ira2.txt", "path": "lat\\latin_library\\index\\seneca\\on-anger-ii", "index": ["_latin_library_seneca_on-anger-ii_4_3.toc", "latin_library_seneca_on-anger-ii_4_s4yz73k1xhk758p5.seg"]}, "5": {"author": "Seneca", "title": "On Anger III", "filename": "sen.ira3.txt", "path": "lat\\latin_library\\index\\seneca\\on-anger-iii", "index": ["_latin_library_seneca_on-anger-iii_5_3.toc", "latin_library_seneca_on-anger-iii_5_l1cvtstbpqj6lk7v.seg"]}, "0": {"author": "Seneca", "title": "On Benefits I ", "filename": "ben1.txt", "path": "lat\\latin_library\\index\\seneca\\on-benefits-i", "index": ["_latin_library_seneca_on-benefits-i_0_3.toc", "latin_library_seneca_on-benefits-i_0_4mtma8vb67bkwbxj.seg"]}, "1": {"author": "Seneca", "title": "On Benefits II ", "filename": "ben2.txt", "path": "lat\\latin_library\\index\\seneca\\on-benefits-ii", "index": ["_latin_library_seneca_on-benefits-ii_1_3.toc", "latin_library_seneca_on-benefits-ii_1_0iive3wvjxv2kz35.seg"]}, "2": {"author": "Seneca", "title": "On Benefits III ", "filename": "ben3.txt", "path": "lat\\latin_library\\index\\seneca\\on-benefits-iii", "index": ["_latin_library_seneca_on-benefits-iii_2_3.toc", "latin_library_seneca_on-benefits-iii_2_yrq8357phzg2vixk.seg"]}}
+{
+    "3": {
+        "author": "Seneca",
+        "title": "On Anger I",
+        "filename": "sen/sen.ira1.txt",
+        "path": "lat/latin_library/index/seneca/on-anger-i",
+        "index": [
+            "_latin_library_seneca_on-anger-i_3_3.toc",
+            "latin_library_seneca_on-anger-i_3_k7gprcevwsjp73p3.seg"
+        ]
+    },
+    "4": {
+        "author": "Seneca",
+        "title": "On Anger II",
+        "filename": "sen/sen.ira2.txt",
+        "path": "lat/latin_library/index/seneca/on-anger-ii",
+        "index": [
+            "_latin_library_seneca_on-anger-ii_4_3.toc",
+            "latin_library_seneca_on-anger-ii_4_s4yz73k1xhk758p5.seg"
+        ]
+    },
+    "5": {
+        "author": "Seneca",
+        "title": "On Anger III",
+        "filename": "sen/sen.ira3.txt",
+        "path": "lat/latin_library/index/seneca/on-anger-iii",
+        "index": [
+            "_latin_library_seneca_on-anger-iii_5_3.toc",
+            "latin_library_seneca_on-anger-iii_5_l1cvtstbpqj6lk7v.seg"
+        ]
+    },
+    "0": {
+        "author": "Seneca",
+        "title": "On Benefits I ",
+        "filename": "sen/ben1.txt",
+        "path": "lat/latin_library/index/seneca/on-benefits-i",
+        "index": [
+            "_latin_library_seneca_on-benefits-i_0_3.toc",
+            "latin_library_seneca_on-benefits-i_0_4mtma8vb67bkwbxj.seg"
+        ]
+    },
+    "1": {
+        "author": "Seneca",
+        "title": "On Benefits II ",
+        "filename": "sen/ben2.txt",
+        "path": "lat/latin_library/index/seneca/on-benefits-ii",
+        "index": [
+            "_latin_library_seneca_on-benefits-ii_1_3.toc",
+            "latin_library_seneca_on-benefits-ii_1_0iive3wvjxv2kz35.seg"
+        ]
+    },
+    "2": {
+        "author": "Seneca",
+        "title": "On Benefits III ",
+        "filename": "sen/ben3.txt",
+        "path": "lat/latin_library/index/seneca/on-benefits-iii",
+        "index": [
+            "_latin_library_seneca_on-benefits-iii_2_3.toc",
+            "latin_library_seneca_on-benefits-iii_2_yrq8357phzg2vixk.seg"
+        ]
+    }
+}
